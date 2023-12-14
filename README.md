@@ -3,7 +3,3 @@
 Uma calculadora com diversas operações e funções, feita somente utilizando HTML e PHP.
 
 Foi meu primeiro projeto utilizando esta linguagem.
-
-#### Tecnologias utilizadas:
-
-- Linguagens: HTML e PHP.
